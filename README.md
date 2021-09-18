@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # About 
 
-I created this app to make it easy for me to take notes while browsing the app. When I am trying to learn or simply reading something I wanted a quick way to either take a note or save something. This app is a chrome extension linked with firebase that allows the user to save any note while browsing and revisit it later.
+I created this app to make it quick and easy for me to take notes while browsing the web. This app is a chrome extension linked with firebase that allows the user to save any note while browsing and revisit it later.
 
 
 
